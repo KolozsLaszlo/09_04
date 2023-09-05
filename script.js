@@ -1,8 +1,6 @@
-function myFunction() {
-  alert('Valami Valami')
-}
-
 console.error('hiba')
 console.log('hello')
 
-const h1elem = document.querySelector('h1')
+document.querySelector('h1').onclick = function () {
+  alert('Müködik ez is már végre ! :D ')
+}
