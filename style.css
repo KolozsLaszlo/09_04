@@ -8,3 +8,16 @@ h6 {
   cursor: pointer;
   margin-right: 150px;
 }
+.kartya {
+  border: 1px solid black;
+  display: inline-block;
+  width: 75px;
+  height: 125px;
+  text-align: center;
+  line-height: 114px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px red;
+  text-shadow: 2px 3px 4px red;
+  font-size: 50px;
+  margin: 5px;
+}
